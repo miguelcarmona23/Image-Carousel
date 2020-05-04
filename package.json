@@ -1,0 +1,14 @@
+{
+  "name": "image-carousel",
+  "version": "1.0.0",
+  "description": "A CSS only Image Carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Carmona",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.26.5"
+  }
+}
